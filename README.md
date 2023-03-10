@@ -8,3 +8,5 @@ Market Basket Analysis (MBA) is a technique that helps retailers identify the pa
 Apriori Algorithm is an algorithm for extracting the frequent item-sets with application in association rule learning. In general, the apriori algorithm has been developed to work on databases containing large number of transactions. For instance, purchases by customers of a store. The item-set is considered as ‘frequent’ if it meets a user-specified support threshold. For example, if the support threshold is set to 0.4, this indicates that a frequent item-set which is defined as a set of items that found together in at least 40% of all transactions in the database.
 
 Association rules analysis can reveal how items are related to each other.
+![‏‏لقطة الشاشة (15)](https://user-images.githubusercontent.com/102546752/224380700-24172b73-6323-4e2b-b1f6-b1f33d8ac044.png)
+
